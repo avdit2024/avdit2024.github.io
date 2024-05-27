@@ -393,7 +393,8 @@ a:hover:after{
   justify-content: center;
   align-items: center;
   flex-direction: column; 
-  width: 80%;
+  width: 90%;
+  height: 50%
 }
 .vid-txt p {
   margin-top: 10px;
