@@ -394,7 +394,7 @@ a:hover:after{
   align-items: center;
   flex-direction: column; 
   width: 90%;
-  height: 50%
+  height: 10%
 }
 .vid-txt p {
   margin-top: 10px;
@@ -403,8 +403,8 @@ a:hover:after{
 .vid-txt video {
   margin-top: 10px;
   margin: auto;
-  width: 650px;
-  height: 450px;
+  /* width: 100%;
+  height: 450px; */
 }
 
 .resolution{
